@@ -8,4 +8,4 @@ CREATE TABLE Admin
 )
 
 Insert into Admin(AdminName,AdminPassword,AdminEmail,AdminPhoto)
-Values('Ritesh','SGT','riteshagicha@gmail.com','user.jpg')
+Values('Ishita','ABC','ishitah@gmail.com','user.jpg')
