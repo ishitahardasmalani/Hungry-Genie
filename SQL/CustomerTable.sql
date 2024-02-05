@@ -8,4 +8,4 @@ Create table Customer
 
 INsert into Customer(CustomerName,CustomerPassword,
 CustomerContact,CustomerEmailId)
-Values('Agicha','Agicha',7507840801,'riteshagicha@gmail.com')
+Values('Ishita','ABC',7507840801,'ishitah@gmail.com')
