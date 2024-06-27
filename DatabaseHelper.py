@@ -2,8 +2,8 @@ from pymysql import *
 from pymysql import cursors
 
 class DatabaseHelper():
-    USER = 'ritesh'
-    PASSWORD = 'ritesh'
+    USER = 'ishita'
+    PASSWORD = 'ishita'
     HOST = 'localhost'
     database = 'world'
 
